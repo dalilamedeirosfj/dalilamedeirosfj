@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/dalilamedeirofj">
-  <img height="30%" src="https://github-readme-stats.vercel.app/api?username=dalilamedeirosfj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalilamedeirosfj&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="20%" src="https://github-readme-stats.vercel.app/api?username=dalilamedeirosfj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalilamedeirosfj&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align right>
