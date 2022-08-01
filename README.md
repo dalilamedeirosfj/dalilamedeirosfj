@@ -6,12 +6,14 @@
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalilamedeirosfj&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div>
-src="">
+<div align right>
+
+  <img height = "200px" width="200px" src="https://im3.ezgif.com/tmp/ezgif-3-2959fc6485.gif"/>
 
    ##
   
 </div>
+ 
 <h5> REDES SOCIAIS E CONTATO </H5>
   
 
